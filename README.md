@@ -1,4 +1,4 @@
 # News-website
 This my first github repository.
 <br>
-Author-ArunThakur
+Author-ArunThakur(Future AI maker)
