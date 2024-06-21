@@ -1,2 +1,3 @@
 # News-website
-This my first github repository
+This my first github repository.
+Author-ArunThakur
